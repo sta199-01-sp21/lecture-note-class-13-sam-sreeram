@@ -415,7 +415,8 @@ visualise(boot_prop_lived) +
 
 Give an interpretation of your result.
 
-This indicates that we are 90% confident that the true proportion of mice that lived after being treated is between the interval from 55.2% to 65.1%.
+This indicates that we are 90% confident that the true proportion of mice that 
+lived after being treated is between the interval from 55.2% to 65.1%.
 
 # References
 
